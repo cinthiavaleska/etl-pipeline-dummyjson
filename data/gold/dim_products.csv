@@ -1,0 +1,31 @@
+product_id,product_title,product_category,brand,price,rating
+1,essence mascara lash princess,beauty,essence,9.99,2.56
+2,eyeshadow palette with mirror,beauty,glamour beauty,19.99,2.86
+3,powder canister,beauty,velvet touch,14.99,4.64
+4,red lipstick,beauty,chic cosmetics,12.99,4.36
+5,red nail polish,beauty,nail couture,8.99,4.32
+6,calvin klein ck one,fragrances,calvin klein,49.99,4.37
+7,chanel coco noir eau de,fragrances,chanel,129.99,4.26
+8,dior j'adore,fragrances,dior,89.99,3.8
+9,dolce shine eau de,fragrances,dolce & gabbana,69.99,3.96
+10,gucci bloom eau de,fragrances,gucci,79.99,2.74
+11,annibale colombo bed,furniture,annibale colombo,1899.99,4.77
+12,annibale colombo sofa,furniture,annibale colombo,2499.99,3.92
+13,bedside table african cherry,furniture,furniture co.,299.99,2.87
+14,knoll saarinen executive conference chair,furniture,knoll,499.99,4.88
+15,wooden bathroom sink with mirror,furniture,bath trends,799.99,3.59
+16,apple,groceries,sem marca,1.99,4.19
+17,beef steak,groceries,sem marca,12.99,4.47
+18,cat food,groceries,sem marca,8.99,3.13
+19,chicken meat,groceries,sem marca,9.99,3.19
+20,cooking oil,groceries,sem marca,4.99,4.8
+21,cucumber,groceries,sem marca,1.49,4.07
+22,dog food,groceries,sem marca,10.99,4.55
+23,eggs,groceries,sem marca,2.99,2.53
+24,fish steak,groceries,sem marca,14.99,3.78
+25,green bell pepper,groceries,sem marca,1.29,3.25
+26,green chili pepper,groceries,sem marca,0.99,3.66
+27,honey jar,groceries,sem marca,6.99,3.97
+28,ice cream,groceries,sem marca,5.49,3.39
+29,juice,groceries,sem marca,3.99,3.94
+30,kiwi,groceries,sem marca,2.49,4.93
