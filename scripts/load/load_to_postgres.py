@@ -19,23 +19,34 @@ engine = create_engine(
 
 
 # =========================================================
-# LEITURA DA CAMADA GOLD
+# TABELAS DA CAMADA GOLD
 # =========================================================
 
-df_fact_cart_items = pd.read_csv(
-    "data/gold/fact_cart_items.csv"
-)
+tabelas = [
+    "fact_cart_items",
+    "dim_products",
+    "dim_users",
+    "dim_address"
+]
 
 
 # =========================================================
-# LOAD POSTGRESQL
+# LOOP DE CARGA
 # =========================================================
 
-df_fact_cart_items.to_sql(
-    name="fact_cart_items",
-    con=engine,
-    if_exists="replace",
-    index=False
-)
+for tabela in tabelas:
 
-print("Tabela fact_cart_items carregada com sucesso!")
+    caminho_arquivo = f"data/gold/{tabela}.csv"
+
+    print(f"Carregando tabela: {tabela}")
+
+    df = pd.read_csv(caminho_arquivo)
+
+    df.to_sql(
+        name=tabela,
+        con=engine,
+        if_exists="replace",
+        index=False
+    )
+
+    print(f"Tabela {tabela} carregada com sucesso!\n")
