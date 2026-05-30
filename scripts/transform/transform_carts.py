@@ -9,6 +9,7 @@ df_carts = pd.DataFrame(dados["carts"])
 
 df_cart_items = df_carts.explode("products")
 
+
 df_products = pd.DataFrame(
     df_cart_items["products"].tolist()
 ) 

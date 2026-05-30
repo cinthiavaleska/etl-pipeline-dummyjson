@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "https://dummyjson.com/products"
+url = "https://dummyjson.com/products?limit=200"
 
 response = requests.get(url)
 

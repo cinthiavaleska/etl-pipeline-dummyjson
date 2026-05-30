@@ -29,3 +29,167 @@ product_id,product_title,product_category,brand,price,rating
 28,ice cream,groceries,sem marca,5.49,3.39
 29,juice,groceries,sem marca,3.99,3.94
 30,kiwi,groceries,sem marca,2.49,4.93
+31,lemon,groceries,sem marca,0.79,3.53
+32,milk,groceries,sem marca,3.49,2.61
+33,mulberry,groceries,sem marca,4.99,4.95
+34,nescafe coffee,groceries,sem marca,7.99,4.82
+35,potatoes,groceries,sem marca,2.29,4.81
+36,protein powder,groceries,sem marca,19.99,4.18
+37,red onions,groceries,sem marca,1.99,4.2
+38,rice,groceries,sem marca,5.99,3.18
+39,soft drinks,groceries,sem marca,1.99,4.75
+40,strawberry,groceries,sem marca,3.99,3.08
+41,tissue paper box,groceries,sem marca,2.49,2.69
+42,water,groceries,sem marca,0.99,4.96
+43,decoration swing,home-decoration,sem marca,59.99,3.16
+44,family tree photo frame,home-decoration,sem marca,29.99,4.53
+45,house showpiece plant,home-decoration,sem marca,39.99,4.67
+46,plant pot,home-decoration,sem marca,14.99,3.01
+47,table lamp,home-decoration,sem marca,49.99,3.55
+48,bamboo spatula,kitchen-accessories,sem marca,7.99,3.27
+49,black aluminium cup,kitchen-accessories,sem marca,5.99,4.46
+50,black whisk,kitchen-accessories,sem marca,9.99,3.9
+51,boxed blender,kitchen-accessories,sem marca,39.99,4.56
+52,carbon steel wok,kitchen-accessories,sem marca,29.99,4.05
+53,chopping board,kitchen-accessories,sem marca,12.99,3.7
+54,citrus squeezer yellow,kitchen-accessories,sem marca,8.99,4.63
+55,egg slicer,kitchen-accessories,sem marca,6.99,3.09
+56,electric stove,kitchen-accessories,sem marca,49.99,4.11
+57,fine mesh strainer,kitchen-accessories,sem marca,9.99,3.04
+58,fork,kitchen-accessories,sem marca,3.99,3.11
+59,glass,kitchen-accessories,sem marca,4.99,4.02
+60,grater black,kitchen-accessories,sem marca,10.99,3.21
+61,hand blender,kitchen-accessories,sem marca,34.99,3.86
+62,ice cube tray,kitchen-accessories,sem marca,5.99,4.71
+63,kitchen sieve,kitchen-accessories,sem marca,7.99,3.09
+64,knife,kitchen-accessories,sem marca,14.99,3.26
+65,lunch box,kitchen-accessories,sem marca,12.99,4.93
+66,microwave oven,kitchen-accessories,sem marca,89.99,4.82
+67,mug tree stand,kitchen-accessories,sem marca,15.99,2.64
+68,pan,kitchen-accessories,sem marca,24.99,2.79
+69,plate,kitchen-accessories,sem marca,3.99,3.65
+70,red tongs,kitchen-accessories,sem marca,6.99,4.42
+71,silver pot with glass cap,kitchen-accessories,sem marca,39.99,3.22
+72,slotted turner,kitchen-accessories,sem marca,8.99,3.4
+73,spice rack,kitchen-accessories,sem marca,19.99,4.87
+74,spoon,kitchen-accessories,sem marca,4.99,4.03
+75,tray,kitchen-accessories,sem marca,16.99,4.62
+76,wooden rolling pin,kitchen-accessories,sem marca,11.99,2.92
+77,yellow peeler,kitchen-accessories,sem marca,5.99,4.24
+78,apple macbook pro 14 inch space grey,laptops,apple,1999.99,3.65
+79,asus zenbook pro dual screen laptop,laptops,asus,1799.99,3.95
+80,huawei matebook x pro,laptops,huawei,1399.99,4.98
+81,lenovo yoga 920,laptops,lenovo,1099.99,2.86
+82,new dell xps 13 9300 laptop,laptops,dell,1499.99,2.67
+83,blue & black check shirt,mens-shirts,fashion trends,29.99,3.64
+84,gigabyte aorus men tshirt,mens-shirts,gigabyte,24.99,3.18
+85,man plaid shirt,mens-shirts,classic wear,34.99,3.46
+86,man short sleeve shirt,mens-shirts,casual comfort,19.99,2.9
+87,men check shirt,mens-shirts,urban chic,27.99,2.72
+88,nike air jordan 1 red and black,mens-shoes,nike,149.99,4.77
+89,nike baseball cleats,mens-shoes,nike,79.99,3.88
+90,puma future rider trainers,mens-shoes,puma,89.99,4.9
+91,sports sneakers off white & red,mens-shoes,off white,119.99,4.77
+92,sports sneakers off white red,mens-shoes,off white,109.99,4.69
+93,brown leather belt watch,mens-watches,fashion timepieces,89.99,4.19
+94,longines master collection,mens-watches,longines,1499.99,3.87
+95,rolex cellini date black dial,mens-watches,rolex,8999.99,4.97
+96,rolex cellini moonphase,mens-watches,rolex,12999.99,2.58
+97,rolex datejust,mens-watches,rolex,10999.99,3.66
+98,rolex submariner watch,mens-watches,rolex,13999.99,2.69
+99,amazon echo plus,mobile-accessories,amazon,99.99,4.99
+100,apple airpods,mobile-accessories,apple,129.99,4.15
+101,apple airpods max silver,mobile-accessories,apple,549.99,3.47
+102,apple airpower wireless charger,mobile-accessories,apple,79.99,3.68
+103,apple homepod mini cosmic grey,mobile-accessories,apple,99.99,4.62
+104,apple iphone charger,mobile-accessories,apple,19.99,4.15
+105,apple magsafe battery pack,mobile-accessories,apple,99.99,3.62
+106,apple watch series 4 gold,mobile-accessories,apple,349.99,2.74
+107,beats flex wireless earphones,mobile-accessories,beats,49.99,4.24
+108,iphone 12 silicone case with magsafe plum,mobile-accessories,apple,29.99,3.62
+109,monopod,mobile-accessories,techgear,19.99,4.43
+110,selfie lamp with iphone,mobile-accessories,gadgetmaster,14.99,3.55
+111,selfie stick monopod,mobile-accessories,snaptech,12.99,3.88
+112,tv studio camera pedestal,mobile-accessories,provision,499.99,2.78
+113,generic motorcycle,motorcycle,generic motors,3999.99,4.91
+114,kawasaki z800,motorcycle,kawasaki,8999.99,3.98
+115,motogp ci.h1,motorcycle,motogp,14999.99,2.97
+116,scooter motorcycle,motorcycle,scootmaster,2999.99,2.53
+117,sportbike motorcycle,motorcycle,speedmaster,7499.99,3.94
+118,attitude super leaves hand soap,skin-care,attitude,8.99,3.19
+119,olay ultra moisture shea butter body wash,skin-care,olay,12.99,4.51
+120,vaseline men body and face lotion,skin-care,vaseline,9.99,3.16
+121,iphone 5s,smartphones,apple,199.99,2.83
+122,iphone 6,smartphones,apple,299.99,3.41
+123,iphone 13 pro,smartphones,apple,1099.99,4.12
+124,iphone x,smartphones,apple,899.99,2.51
+125,oppo a57,smartphones,oppo,249.99,3.94
+126,oppo f19 pro plus,smartphones,oppo,399.99,3.51
+127,oppo k1,smartphones,oppo,299.99,4.25
+128,realme c35,smartphones,realme,149.99,4.2
+129,realme x,smartphones,realme,299.99,3.7
+130,realme xt,smartphones,realme,349.99,4.58
+131,samsung galaxy s7,smartphones,samsung,299.99,3.3
+132,samsung galaxy s8,smartphones,samsung,499.99,4.4
+133,samsung galaxy s10,smartphones,samsung,699.99,3.06
+134,vivo s1,smartphones,vivo,249.99,3.5
+135,vivo v9,smartphones,vivo,299.99,3.6
+136,vivo x21,smartphones,vivo,499.99,4.26
+137,american football,sports-accessories,sem marca,19.99,4.91
+138,baseball ball,sports-accessories,sem marca,8.99,2.57
+139,baseball glove,sports-accessories,sem marca,24.99,3.96
+140,basketball,sports-accessories,sem marca,14.99,4.66
+141,basketball rim,sports-accessories,sem marca,39.99,4.6
+142,cricket ball,sports-accessories,sem marca,12.99,3.53
+143,cricket bat,sports-accessories,sem marca,29.99,3.17
+144,cricket helmet,sports-accessories,sem marca,44.99,4.69
+145,cricket wicket,sports-accessories,sem marca,29.99,4.73
+146,feather shuttlecock,sports-accessories,sem marca,5.99,2.85
+147,football,sports-accessories,sem marca,17.99,3.28
+148,golf ball,sports-accessories,sem marca,9.99,4.3
+149,iron golf,sports-accessories,sem marca,49.99,4.41
+150,metal baseball bat,sports-accessories,sem marca,29.99,4.66
+151,tennis ball,sports-accessories,sem marca,6.99,4.06
+152,tennis racket,sports-accessories,sem marca,49.99,4.03
+153,volleyball,sports-accessories,sem marca,11.99,3.84
+154,black sun glasses,sunglasses,fashion shades,29.99,4.41
+155,classic sun glasses,sunglasses,fashion shades,24.99,3.86
+156,green and black glasses,sunglasses,fashion shades,34.99,4.55
+157,party glasses,sunglasses,fashion fun,19.99,2.79
+158,sunglasses,sunglasses,fashion shades,22.99,3.02
+159,ipad mini 2021 starlight,tablets,apple,499.99,3.18
+160,samsung galaxy tab s8 plus grey,tablets,samsung,599.99,4.68
+161,samsung galaxy tab white,tablets,samsung,349.99,3.72
+162,blue frock,tops,sem marca,29.99,4.17
+163,girl summer dress,tops,sem marca,19.99,4.77
+164,gray dress,tops,sem marca,34.99,2.72
+165,short frock,tops,sem marca,24.99,3.23
+166,tartan dress,tops,sem marca,39.99,4.05
+167,300 touring,vehicle,chrysler,28999.99,4.05
+168,charger sxt rwd,vehicle,dodge,32999.99,2.58
+169,dodge hornet gt plus,vehicle,dodge,24999.99,2.65
+170,durango sxt rwd,vehicle,dodge,36999.99,4.07
+171,pacifica touring,vehicle,chrysler,31999.99,3.62
+172,blue women's handbag,womens-bags,fashionista,49.99,2.92
+173,heshe women's leather bag,womens-bags,heshe,129.99,4.92
+174,prada women bag,womens-bags,prada,599.99,2.71
+175,white faux leather backpack,womens-bags,urban chic,39.99,3.36
+176,women handbag black,womens-bags,elegance collection,59.99,2.89
+177,black women's gown,womens-dresses,sem marca,129.99,3.64
+178,corset leather with skirt,womens-dresses,sem marca,89.99,3.05
+179,corset with black skirt,womens-dresses,sem marca,79.99,4.52
+180,dress pea,womens-dresses,sem marca,49.99,4.88
+181,marni red & black suit,womens-dresses,sem marca,179.99,4.48
+182,green crystal earring,womens-jewellery,sem marca,29.99,3.96
+183,green oval earring,womens-jewellery,sem marca,24.99,3.57
+184,tropical earring,womens-jewellery,sem marca,19.99,4.4
+185,black & brown slipper,womens-shoes,comfort trends,19.99,2.53
+186,calvin klein heel shoes,womens-shoes,calvin klein,79.99,4.92
+187,golden shoes woman,womens-shoes,fashion diva,49.99,3.26
+188,pampi shoes,womens-shoes,pampi,29.99,3.05
+189,red shoes,womens-shoes,fashion express,34.99,3.25
+190,iwc ingenieur automatic steel,womens-watches,iwc,4999.99,2.93
+191,rolex cellini moonphase,womens-watches,rolex,15999.99,3.83
+192,rolex datejust women,womens-watches,rolex,10999.99,2.86
+193,watch gold for women,womens-watches,fashion gold,799.99,4.24
+194,women's wrist watch,womens-watches,fashion co.,129.99,3.52
