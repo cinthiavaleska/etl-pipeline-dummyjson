@@ -1,7 +1,21 @@
+# Python
 __pycache__/
 *.pyc
-.venv/
-.env
-logs/
-airflow/
+*.pyo
+*.pyd
+
+# Airflow
+airflow/logs/
+
+# VS Code
 .vscode/
+
+# Arquivos temporários
+*.ses
+
+# Variáveis de ambiente
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

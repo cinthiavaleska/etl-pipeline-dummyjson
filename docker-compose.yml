@@ -57,6 +57,9 @@ services:
       - ./airflow/dags:/opt/airflow/dags
       - ./airflow/logs:/opt/airflow/logs
       - ./airflow/plugins:/opt/airflow/plugins
+      - ./scripts:/opt/airflow/scripts
+      - ./data:/opt/airflow/data
+      - ./config:/opt/airflow/config
 
   airflow-scheduler:
     image: apache/airflow:2.9.1
@@ -74,6 +77,8 @@ services:
       - ./airflow/dags:/opt/airflow/dags
       - ./airflow/logs:/opt/airflow/logs
       - ./airflow/plugins:/opt/airflow/plugins
-
+      - ./scripts:/opt/airflow/scripts
+      - ./data:/opt/airflow/data
+      - ./config:/opt/airflow/config
 volumes:
   postgres_data:

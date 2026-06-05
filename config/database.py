@@ -6,9 +6,9 @@ from sqlalchemy import create_engine
 
 usuario = "admin"
 senha = "admin"
-host = "localhost"
+host = "postgres"
 porta = "5432"
-banco = "pipeline_db"
+banco = "ecommerce"
 
 engine = create_engine(
     f"postgresql+psycopg2://{usuario}:{senha}@{host}:{porta}/{banco}"
