@@ -9,7 +9,16 @@ Os dados são extraídos da API, armazenados em uma arquitetura medalhão (Raw, 
 Todo o processo é orquestrado pelo Apache Airflow executando em containers Docker.
 
 ---
+## Principais Funcionalidades
 
+- Extração de dados da API DummyJSON
+- Arquitetura Medalhão (Raw, Silver e Gold)
+- Transformações de dados com Pandas
+- Modelagem dimensional em esquema estrela
+- Carga analítica em PostgreSQL
+- Orquestração com Apache Airflow
+- Visualização de indicadores no Power BI
+---
 ## Arquitetura
 
 ![Arquitetura](images/arquitetura.png)
