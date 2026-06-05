@@ -98,7 +98,7 @@ projeto_pipeline_vendas/
 
 A execução do pipeline é realizada através do Apache Airflow.
 
-![Airflow DAG](images/airflow_dag.png)
+![Airflow DAG](images/airflow_DAG.png)
 
 ---
 
